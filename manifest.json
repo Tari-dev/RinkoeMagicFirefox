@@ -22,7 +22,6 @@
       "default_title": "Open Popup",
       "default_popup": "popup.html"
   },
-
   "web_accessible_resources": [
       {
           "resources": ["popup.html"],
