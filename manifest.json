@@ -22,6 +22,12 @@
       "default_title": "Open Popup",
       "default_popup": "popup.html"
   },
+  "browser_specific_settings": {
+      "gecko": {
+          "id": "RinkoeMagic@Rinkoe.com",
+          "strict_min_version": "42.0"
+      }
+  },
   "web_accessible_resources": [
       {
           "resources": ["popup.html"],
